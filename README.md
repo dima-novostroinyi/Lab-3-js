@@ -77,6 +77,7 @@ yarn preview
 Розблоковуйте досягнення та отримуйте нагороди
 
 Стратегії
+
 Ранній етап: Фокусуйтесь на Click Power та Auto Clicker
 Середній етап: Інвестуйте в Passive Income та Combo Multiplier
 Пізній етап: Максимізуйте Lucky Clicks та готуйтесь до престижу
