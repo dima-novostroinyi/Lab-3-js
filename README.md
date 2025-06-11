@@ -52,22 +52,22 @@ cd duikt-clicker
 
 Встановіть залежності
 npm install
-# або
+або
 yarn install
 
 🚀 Запуск
 Режим розробки
 npm run dev
-# або
+або
 yarn dev
 Відкрийте http://localhost:5173 у браузері
 Збірка для продакшн
 npm run build
-# або
+або
 yarn build
 Перегляд збірки
-bashnpm run preview
-# або
+npm run preview
+або
 yarn preview
 
 🎮 Ігровий процес
@@ -96,6 +96,7 @@ Storage: IndexedDB (via custom hook)
 Animation: CSS Animations & Transitions
 
 📁 Структура проекту
+
 ![image](https://github.com/user-attachments/assets/edfb3619-d80b-423b-ad14-6e7b54ba29db)
 
 
