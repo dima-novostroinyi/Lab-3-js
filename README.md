@@ -1,5 +1,6 @@
 🎯 Демо
 Грати в Duikt Clicker https://dima-novostroinyi.github.io/Lab-3-js/
+
 ✨ Функції
 Основний геймплей
 Клік-механіка - заробляйте кредити кліками
@@ -95,37 +96,11 @@ Storage: IndexedDB (via custom hook)
 Animation: CSS Animations & Transitions
 
 📁 Структура проекту
-duikt-clicker/
-├── src/
-│   ├── components/          # Компоненти UI
-│   │   ├── Header/
-│   │   ├── ClickButton/
-│   │   ├── InfoPanel/
-│   │   ├── AntibonusAlert/
-│   │   └── AchievementNotification/
-│   ├── features/           # Функціональні модулі
-│   │   ├── upgrades/
-│   │   ├── bonuses/
-│   │   ├── skins/
-│   │   └── achievements/
-│   ├── hooks/             # React хуки
-│   │   ├── useGameState.js
-│   │   ├── useClicker.js
-│   │   └── useIndexedDB.js
-│   ├── utils/             # Утиліти та константи
-│   │   ├── constants.js
-│   │   └── formulas.js
-│   ├── styles/            # Глобальні стилі
-│   │   ├── variables.scss
-│   │   ├── animations.scss
-│   │   └── globals.scss
-│   ├── App.jsx            # Головний компонент
-│   ├── App.module.scss    # Стилі головного компонента
-│   └── main.jsx           # Точка входу
-├── public/                # Статичні файли
-├── index.html            # HTML шаблон
-├── package.json          # Залежності проекту
-├── vite.config.js        # Конфігурація Vite
-└── README.md             # Документація
+![image](https://github.com/user-attachments/assets/edfb3619-d80b-423b-ad14-6e7b54ba29db)
+
 
 ![image](https://github.com/user-attachments/assets/5a892481-0875-4de0-9a31-994e7f69387d)
+Скрин гри
+
+![image](https://github.com/user-attachments/assets/3e141e6e-732a-4758-9fd1-b7fc92279b07)
+Скрин гри, коли є антибонус
